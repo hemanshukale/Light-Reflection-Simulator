@@ -20,6 +20,7 @@ Only the x coordinate of each point of relection is calculated, as the y coordin
 Three variables are shown at the top-right- A, d and R which indicate - angle between emitter ray and interface, distance between the 2 mirrors and refractive index of space between mirrors with respect to emitter material.  
 You can press R anytime to save a screenshot of the whole sketch display. The dated and screenshot will be saved in a subdirectory 'output' of the current directory.  
 
+There is also a scale drawn to scale, for better finding out the point of contacts of the rays and mirrors. The rays are drawn with alternating colors to increase visibility. The points of reflection are also numbered, and a small different colored vertical line is drawn at these points to compare with scale better.  
 
 Key | Use  
 ------------ | -------------  
